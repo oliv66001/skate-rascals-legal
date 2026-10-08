@@ -8,13 +8,13 @@ layout: default
 
 <img class="sr-logo" src="assets/skate-rascals-logo.png" alt="Logo Skate Rascals">
 
-Dernière mise à jour : 30 septembre 2026.
+Dernière mise à jour : 8 octobre 2026.
 
 Skate Rascals est un jeu mobile de course en skateboard au style cartoon : le joueur affronte des concurrents gérés par l’ordinateur sur des parcours et des circuits, attrape des bonus, utilise le pouvoir de son personnage et débloque de nouveaux personnages avec les pièces gagnées.
 
 Éditeur : Développement-Solution — Olivier Pagé, France.
 
-La version actuelle enregistre la progression uniquement sur l’appareil. Elle ne crée pas de compte joueur en ligne et ne propose aucun paiement réel. Le jeu est prévu pour être financé par la publicité ; ces pages seront mises à jour avant l’activation de toute publicité réelle ou de tout changement affectant les données.
+Le jeu est gratuit et financé par la publicité (Google AdMob). La progression est enregistrée sur l’appareil et, si le joueur est connecté aux services de jeux Google Play, sauvegardée dans son compte Play Jeux avec ses scores et ses succès. Le jeu ne crée pas de compte chez l’éditeur et ne propose aucun achat intégré.
 
 - [Politique de confidentialité](confidentialite.html)
 - [Suppression du compte et des données](suppression.html)
